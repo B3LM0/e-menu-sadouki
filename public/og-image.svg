@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1f1813"/>
+  <circle cx="1000" cy="90" r="220" fill="#facc15" opacity="0.18"/>
+  <circle cx="160" cy="560" r="260" fill="#eab308" opacity="0.12"/>
+  <text x="80" y="300" font-family="Georgia, serif" font-size="76" font-weight="bold" fill="#facc15">Pizzeria Sadouki</text>
+  <text x="82" y="372" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#f4ecd9">Pizza artisanale · Burger · Sandwich</text>
+  <text x="82" y="430" font-family="Arial, sans-serif" font-size="22" fill="#d6c9b4">Fast-food · Cuisine maison — Livraison à Alger</text>
+</svg>
